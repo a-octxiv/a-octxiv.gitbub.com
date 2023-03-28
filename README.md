@@ -1,1 +1,1 @@
-# a-octxiv.gitbub.com
+# a-octxiv.github.com
